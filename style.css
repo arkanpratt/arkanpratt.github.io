@@ -1,4 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
 .jumbotron{
-    padding: 2rem 1rem;
-    background-image: missing.jpg;
+    padding-top: 2rem ;
+    background-image: url('missing.jpg');
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Teko',Arial, Helvetica, sans-serif;
+    text-shadow: rgba(19, 4, 4, 0.747) 3px 5px 1px;
+    color: #fff
+}
+
+h3{
+    font-family: 'Open Sans Condensed',arial;
+    text-shadow: #0b0c0b 3px 5px 1px;
+    color: aliceblue;
+    
+}
+
+.ebot{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.bar{
+    font-family: 'Teko',Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.puter{
+    background-color: #273036;
+    padding: 30px;
+    font-family: 'Teko',Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
